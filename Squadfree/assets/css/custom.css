@@ -1,0 +1,12 @@
+/*
+Custom Css
+*/
+
+@media(max-width:420px){
+.only-bigscreen{
+    display: none;
+  }
+}
+.row{
+  justify-content: center;
+}
